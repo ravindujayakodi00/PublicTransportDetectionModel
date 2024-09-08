@@ -1,0 +1,15 @@
+path: /Users/ravindujayakodi/Desktop/ObstacleDetectionModal/data
+train: train/images
+val: valid/images
+nc: 9
+
+names:
+  0: bus_board,
+  1: bicycle,
+  2: car,
+  3: motorcycle,
+  4: train,
+  5: truck,
+  6: traffic light,
+  7: fire hydrant,
+  8: person,
